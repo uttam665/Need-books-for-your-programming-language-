@@ -6,9 +6,9 @@
 
 Here are some of our best picks :
 
-<h3 align="center"> 🔗 HTML </h3>: https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf
+<h3 align="left"> 🔗 HTML </h3>: https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf
 
-<h3 align="center"> 🔗 CSS </h3>: https://goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf
+<h3 align="left"> 🔗 CSS </h3>: https://goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf
 
 <h3 align="center"> 🔗 JavaScript </h3>: https://goalkicker.com/JavaScriptBook/JavaScriptNotesForProfessionals.pdf
 
